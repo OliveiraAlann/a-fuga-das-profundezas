@@ -23,6 +23,7 @@ O jogo foi criado com foco em **trabalho em equipe**, **coordenação** e **desa
 📁 docs/              → Exportação HTML do jogo (versão jogável)
 📁 assets/            → Artes, sprites, imagens e logo
 📄 index.html         → Arquivo principal do jogo
+📄 README.md → Documentação do projeto
 ```
 
 *(A pasta `docs` é usada pelo GitHub Pages para hospedar o jogo.)*
