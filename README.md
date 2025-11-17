@@ -32,7 +32,7 @@ O jogo foi criado com foco em **trabalho em equipe**, **coordenação** e **desa
 
 ## 🌐 Jogue Agora (GitHub Pages)
 
-🔗 **Link da versão jogável:** *em breve*
+🔗 https://oliveiraalann.github.io/a-fuga-das-profundezas/
 
 Assim que o GitHub Pages processar a publicação, seu jogo ficará disponível nesse link.
 
