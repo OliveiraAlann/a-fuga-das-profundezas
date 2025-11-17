@@ -65,11 +65,14 @@ Assim que o GitHub Pages processar a publicação, seu jogo ficará disponível 
 ## 📸 Capturas de Tela
 
 
-```
+
 ![Logo do Jogo](assets/logo.png)
 
+### Gameplay
 
-```
+![Gameplay](assets/gameplay1.png)
+
+
 
 ---
 
