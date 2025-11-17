@@ -50,7 +50,7 @@ Assim que o GitHub Pages processar a publicação, seu jogo ficará disponível 
 
 * A / D Movimentação
 * W Pulo
-* 0 Atirar
+* 0 Atirar (NumPad)
 
 
 ## 🛠️ Tecnologias Utilizadas
