@@ -20,11 +20,22 @@ O jogo foi criado com foco em **trabalho em equipe**, **coordenação** e **desa
 ## 🗂️ Estrutura do Repositório
 
 ```
-📁 docs/              → Exportação HTML do jogo (versão jogável)
-📁 assets/            → Artes, sprites, imagens e logo
-📄 index.html         → Arquivo principal do jogo
-📄 README.md          → Documentação do projeto
+📁 docs/                           → Exportação HTML do jogo (versão jogável)
+📁 assets/                         → Artes, sprites, imagens e logo
+📄 index.html                      → Arquivo principal do jogo
+📄 README.md                       → Documentação do projeto
+📄 A Fuga das profundezas.c3p      → Arquivo original do c3
 ```
+
+## 🎨 Arquivo Fonte do Projeto
+
+O arquivo original do Construct 3 (.c3p) está disponível no repositório:
+
+- **A Fuga das Profundezas.c3p**
+
+Isso permite que qualquer pessoa abra o projeto diretamente no Construct 3 para estudo, modificação ou extensão do jogo.
+
+---
 
 *(A pasta `docs` é usada pelo GitHub Pages para hospedar o jogo.)*
 
