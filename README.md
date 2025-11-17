@@ -66,7 +66,7 @@ Assim que o GitHub Pages processar a publicação, seu jogo ficará disponível 
 
 
 ```
-![Logo A fuga das profundezas](https://github.com/user-attachments/assets/b0a89075-22ff-40cb-bdc2-4aecd51490bc)
+
 
 ```
 
